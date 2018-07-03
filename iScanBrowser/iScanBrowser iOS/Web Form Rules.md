@@ -19,7 +19,7 @@ This documentation provides information and instruction pertaining to iScanBrows
 
 ![](https://i.imgur.com/BfE0sCw.png) -->
 
-### Capabilities of Web Form Rules
+<!-- ### Capabilities of Web Form Rules
 #### Scanned Value is URL
 
 #### Limit by Device Type
@@ -38,7 +38,7 @@ This documentation provides information and instruction pertaining to iScanBrows
   - **Only if empty** —  
   - **Simulate a call Form.Submit()** —  
   - **Append data** —  
-  - **Execute custom JavaScript** —  
+  - **Execute custom JavaScript** —   -->
 
 
 ## Manage Web Form Rules
