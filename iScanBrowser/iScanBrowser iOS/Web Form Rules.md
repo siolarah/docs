@@ -1,4 +1,8 @@
 # Web Form Rules (WFR)
+Navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
+
+![](https://i.imgur.com/uLWqq8W.png)
+
 ## About Web Form Rules
 ### Types of Web Form Rules
 - New Page Rules
