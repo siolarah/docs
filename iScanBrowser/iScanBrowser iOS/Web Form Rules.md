@@ -2,6 +2,7 @@
 This documentation provides information and instruction pertaining to iScanBrowser's Web From Rules.
 
 ## About Web Form Rules
+Web Form Rules are divided into two categories; Active Page Rules and New Page Rules. Active Page Rules are used to send data from the scanner to the currently loaded web page. New Page Rules load a URL before applying the rules. When new data is sent from a scanner, the application first goes through a list of Active Page Rules, trying to apply every rule for that URL. If a rule is triggered, the processing of the Web Form Rules list is interrupted. Certain criteria must be met for the Active Page Rule to be applied, including; the URL must match the current web page (Active Page Rules URL field supports the “*” functionality to specify a URL template), “Target Input” is found on the current page, and the “Only if Empty” value corresponds to the target input. Multiple Active Page Rules can be active at one time. If no Active Page Rule is triggered, iScanBrowser can execute a New Page Rule. New Page Rules will load a new URL and set the value of the target input to the new page. Only one New Page Rule can be active at a time.
 ### Types of Web Form Rules
 - **New Page Rules** — New Page rules execute the actions in a new tab (page.)
 - **Active Page Rules** — Active Page rules execute the WFR's actions in the current tab (that is, the _active_ tab).
