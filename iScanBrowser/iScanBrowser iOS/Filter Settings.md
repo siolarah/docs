@@ -2,6 +2,7 @@
 This document provides information regarding the filtering settings for iScanBrowser (iOS).
 
 To access iScanBrowser's appearance settings, navigate to iScanBrowser's settings and location the section labeled "**Filter Settings**."
+
 ![](https://i.imgur.com/uK5VyLS.png)
 
 ## Enable Filtering
