@@ -57,3 +57,36 @@ To enable automatically opening URLSs stored in scanned NDEF data, toggle the sl
 
 ![](https://i.imgur.com/2o70bMj.png)
 
+---
+
+# Device-Specific Settings
+
+## UniMag Support
+### Enable UniMag Support
+
+![](https://i.imgur.com/eeHQpxD.png)
+
+### Change the UniMag Reader Type
+
+![](https://i.imgur.com/IiXZDnX.png)
+
+
+![](https://i.imgur.com/6rfFi4H.png)
+
+### Enable Showing the Connect Dialog
+
+![](https://i.imgur.com/vj06Mil.png)
+
+
+
+## Scanfob 2006 Support
+
+![](https://i.imgur.com/JEejdBc.png)
+
+### Optimize HID Input
+
+![](https://i.imgur.com/f4xTQPB.png)
+
+### Enable Detecting Scanfob brand Barcode Scanners
+
+![](https://i.imgur.com/KaAQsHx.png)
