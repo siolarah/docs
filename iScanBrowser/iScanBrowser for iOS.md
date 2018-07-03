@@ -45,6 +45,8 @@ iScanBrowser is a powerful tool used to scan data into web applications on an iO
 - Filter duplicates
 - See duplicates as new after predefined time
 - Enable dropping non-printable characters
+### Logging
+- Submit a log
 ## Web Form Rules (WFR)
 - About Web Form Rules
   - Types of Web Form Rules
