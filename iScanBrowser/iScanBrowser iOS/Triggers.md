@@ -2,7 +2,11 @@
 
 iScanBrowser triggers allow you to map a specific button (either in the floating taskbar or floating) to trigger a read action to the associated barcode scanner, RFID scanner, or UniMag reader. The floating trigger can also be assigned to trigger a read from the iOS CoreNFC reader.
 
-To access the trigger settings, navigate to iScanBrowser's settings page and locate the subsection labeled "**Triggers Scanner Setup**."
+To access iScanBrowser's trigger settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
+
+![](https://i.imgur.com/uLWqq8W.png) 
+
+Then locate the subsection labeled "**Triggers Scanner Setup**."
 
 ![](https://i.imgur.com/mcAWEkL.png)
 

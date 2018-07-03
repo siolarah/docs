@@ -1,7 +1,11 @@
 # Appearance Settings
 This document provides information regarding the appearance settings for iScanBrowser (iOS).
 
-To access iScanBrowser's appearance settings, navigate to iScanBrowser's settings and location the section labeled "**Appearance Settings**."
+To access iScanBrowser's appearance settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
+
+![](https://i.imgur.com/uLWqq8W.png) 
+
+Then locate the section labeled "**Appearance Settings**."
 
 ![](https://i.imgur.com/ymlkMNg.png)
 ## Enable Fullscreen Mode
