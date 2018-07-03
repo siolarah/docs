@@ -1,7 +1,4 @@
 # Logging
-[[toc]]
-
----
 
 
 ## How to Submit a Log

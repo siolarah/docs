@@ -4,9 +4,6 @@
 This document provides information on how to setup and use the iScanBrowser account (password) manager on iOS.
 
 
-[[toc]]
-
----
 ## Enable the Account Manager
 To access iScanBrowser's appearance settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 

@@ -3,10 +3,6 @@
 This documentation provides information and instruction pertaining to iScanBrowser's Web From Rules.
 
 
-[[toc]]
-
----
-
 ## About Web Form Rules
 Web Form Rules are divided into two categories; Active Page Rules and New Page Rules. 
 - **Active Page Rules** are used to send data from the scanner to the currently loaded web page. 

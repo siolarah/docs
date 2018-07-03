@@ -4,10 +4,6 @@
 This document provides information regarding the filtering settings for iScanBrowser (iOS).
 
 
-[[toc]]
-
----
-
 To access iScanBrowser's filter settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 
 ![](https://i.imgur.com/uLWqq8W.png) 
