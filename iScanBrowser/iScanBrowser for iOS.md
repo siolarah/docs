@@ -1,4 +1,8 @@
 # iScanBrowser for iOS
+[[toc]]
+
+---
+
 ## Introduction
 iScanBrowser is a powerful tool used to scan data into web applications on an iOS device. You can setup Web Form Rules to automatically select a field to import data, allowing you to avoid the need to tap the field as the focal point for the cursor. This is useful when you need to scan data quickly without using the iOS device’s interface. 
 

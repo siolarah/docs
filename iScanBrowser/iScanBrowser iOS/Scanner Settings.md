@@ -1,5 +1,13 @@
 # Scanner Settings
+
+
+
 This document provides information on how to navigate the Scanner Settings for iScanBrowser (iOS). 
+
+
+[[toc]]
+
+---
 
 To access the scanner settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 

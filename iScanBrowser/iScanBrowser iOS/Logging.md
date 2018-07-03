@@ -1,4 +1,9 @@
 # Logging
+[[toc]]
+
+---
+
+
 ## How to Submit a Log
 Navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 

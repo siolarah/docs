@@ -1,6 +1,12 @@
 # Navigating the Web with iScanBrowser
+
+
 This document provides instructions on how to use the basic web browser functionality of iScanBrowser for iOS.
 
+
+[[toc]]
+
+---
 ## Set the Startup Page
 Navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 

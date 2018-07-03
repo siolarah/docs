@@ -1,5 +1,12 @@
 # The Serial Device Manager (SDM)
+
+
 This document provides information and instruction related to using the Serial Device Manager (SDM) for iOS, which is built into iScanBrowser.
+
+
+[[toc]]
+
+---
 
 You can access the SDM by tapping on the SDM icon from the floating taskbar.
 
