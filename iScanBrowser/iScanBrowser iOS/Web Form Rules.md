@@ -35,55 +35,62 @@ Multiple Active Page Rules can be active at one time, but only **one** New Page 
 
 ### Capabilities of Web Form Rules
 #### Scanned Value is URL
+To set the current WFR to use the scan data as a URL, toggle the slider to the far right of the option labelled "**Scanned value is URL**."
 
 ![](https://i.imgur.com/LBMlxoP.png)
 
 #### Limit by Device Type
+To set the current WFR to only execute when a type of device is matched (in addition to the other conditions of the WFR), tap on the option labelled "**Device type**."  
 
 ![](https://i.imgur.com/1HZ99Vf.png)
+
+Select any combination of device types that you want this WFR to execute on (in addition to any other conditions of the WFR). To ignore a device type, leave it blank (no check mark).
 
 ![](https://i.imgur.com/R4QyiFe.png)
 
 
 ##### Device Name Mask
+If you selected "Device name mask" as a device type filter, when you navigate back to the WFR's configuration page, you'll see "**Device Name**" beneath "**Device type**." Fill in the blank with the Bluetooth name of the device (or device type) you want this WFR to match.
 
 ![](https://i.imgur.com/plpCc0j.png)
 
 #### Limit by Scan Values
+To set the current WFR to only execute when a type of scan value is matched, tap on the option labelled "**Scan values**."  
 
 ![](https://i.imgur.com/QrDyX1j.png)
 
-![](https://i.imgur.com/roZrO0W.png)
+Select any combination of scan data types that you want this WFR to execute on (it must also match the other conditions of the rule). To ignore a scan value type, leave it blank (no check mark).
 
 ![](https://i.imgur.com/sVAYVCP.png)
 
 #### Setup a Scan Value Delimiter
+To set a scan delimiter that you want the current WFR to match (in addition to the other conditions of the WFR), tap in the space after "**Scan values delimiter**" and enter the desired delimiter.
 
 ![](https://i.imgur.com/dtOQSiM.png)
 
 #### Select Target Input
+To change the target input of the current WFR, tap on the option labelled "**Target Input**."
 
 ![](https://i.imgur.com/r8qEz6A.png)
 
+  - **Focused input** —  Scan data is sent to the cursor location.
+  - **Find by ID** —  Scan data is sent to an input field specified by ID.
+  - **Find by name** —  Scan data is sent to an input field specified by name.
+  - **JavaScript function** —  Where the scan data is sent is determined by (your) custom JavaScript function.
+
 ![](https://i.imgur.com/lACllcD.png)
 
-  - **Focused input** —  
-  - **Find by ID** —  
-  - **Find by name** —  
-  - **JavaScript function** —  
 
-![](https://i.imgur.com/xK3Ml55.png)
-
-![](https://i.imgur.com/iCd6QX6.png)
   
 #### Additional Options
+At the bottom of the WFR's configuration page, there are a handful of additional options.
 
 ![](https://i.imgur.com/nFlYSlV.png)
 
-  - **Only if empty** —  
-  - **Simulate a call Form.Submit()** —  
-  - **Append data** —  
-  - **Execute custom JavaScript** —  
+  - **Only if empty** —  Scan data is posted to the input field ONLY if the field is empty.
+  - **Call Form.Submit()** —  Simulates a call Form.Submit() after scan data is sent to an input field (an example application of this would be simulating tapping on Google's search button).
+  - **Append data** —  If the input field is NOT empty, the scan data will be appended to the existing data in the input field.
+  - **Execute JS** —  iScanBrowser executes (your) custom JavaScript when this WFR is matched.
 
 
 ## Manage Web Form Rules
