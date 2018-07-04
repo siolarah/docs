@@ -1,9 +1,4 @@
-# iScanBrowser Account Manager
-
-
-This document provides information on how to setup and use the iScanBrowser account (password) manager on iOS.
-
-
+# iScanBrowser Security
 ## Enable the Account Manager
 To access iScanBrowser's appearance settings, navigate to iScanBrowser's settings page by tapping on the gear icon located on the floating task bar.
 
@@ -25,3 +20,9 @@ The Account Manager is now enabled.
 
 ![](https://i.imgur.com/XyJ7qLv.png)
 
+## Clear Private Browsing Data
+To clear iScanBrowser's cookies, navigate to the settings page, then scroll down until you see the section labelled "**PRIVACY**."
+
+![](https://i.imgur.com/klM58LL.png)
+
+Tap on "**Delete All Cookies**."
