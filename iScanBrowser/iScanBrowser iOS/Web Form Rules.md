@@ -33,26 +33,57 @@ Multiple Active Page Rules can be active at one time, but only **one** New Page 
 
 ![](https://i.imgur.com/BfE0sCw.png) -->
 
-<!-- ### Capabilities of Web Form Rules
+### Capabilities of Web Form Rules
 #### Scanned Value is URL
+
+![](https://i.imgur.com/LBMlxoP.png)
 
 #### Limit by Device Type
 
+![](https://i.imgur.com/1HZ99Vf.png)
+
+![](https://i.imgur.com/R4QyiFe.png)
+
+
+##### Device Name Mask
+
+![](https://i.imgur.com/plpCc0j.png)
+
 #### Limit by Scan Values
+
+![](https://i.imgur.com/QrDyX1j.png)
+
+![](https://i.imgur.com/roZrO0W.png)
+
+![](https://i.imgur.com/sVAYVCP.png)
 
 #### Setup a Scan Value Delimiter
 
+![](https://i.imgur.com/dtOQSiM.png)
+
 #### Select Target Input
+
+![](https://i.imgur.com/r8qEz6A.png)
+
+![](https://i.imgur.com/lACllcD.png)
+
   - **Focused input** —  
   - **Find by ID** —  
   - **Find by name** —  
   - **JavaScript function** —  
+
+![](https://i.imgur.com/xK3Ml55.png)
+
+![](https://i.imgur.com/iCd6QX6.png)
   
 #### Additional Options
+
+![](https://i.imgur.com/nFlYSlV.png)
+
   - **Only if empty** —  
   - **Simulate a call Form.Submit()** —  
   - **Append data** —  
-  - **Execute custom JavaScript** —   -->
+  - **Execute custom JavaScript** —  
 
 
 ## Manage Web Form Rules
@@ -63,8 +94,6 @@ To access and manage your Web From Rules, navigate to iScanBrowser's settings pa
 Then scroll down until you see the section labeled "**WEB FORM RULES**."
 
 ![](https://i.imgur.com/ezYUTj8.png)
-
-
 
 ### Prioritize WFRs
 To change the order in which iScanBrowser checks to see if a rule match conditions, press and hold on the three horizontal bars to the far right of the rule's name and drag the rule to rearrange the order. Rules at the top of the list will be check first.
